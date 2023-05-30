@@ -2,8 +2,6 @@
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning js/vue
 - 💞️ I’m looking to collaborate on Web app projects
-- 📫 How to reach me 
-Site.Adj@gmail.com
 TG @xray_yankee
 
 <!---
